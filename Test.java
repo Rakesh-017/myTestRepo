@@ -7,5 +7,6 @@ public class Test {
     }
     public static void dummyTest(){
         System.out.println("Another dummy test");
+        System.out.println("another dummy test");
     }
 }
