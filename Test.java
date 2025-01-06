@@ -5,4 +5,7 @@ public class Test {
         System.out.println("test from main branch 2");
         System.out.println("change from Test branch");
     }
+    public static void dummyTest(){
+        System.out.println("Another dummy test");
+    }
 }
